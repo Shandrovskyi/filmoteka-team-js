@@ -2,7 +2,7 @@
   "name": "team-js-goit",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Shandrovskyi.github.io/filmoteka-team-js//",
+  "homepage": "https://Shandrovskyi.github.io/filmoteka-team-js/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka-team-js/"
